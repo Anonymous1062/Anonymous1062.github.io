@@ -1,7 +1,8 @@
-
-body {
-  background-color: lightblue;
+* {
+  margin: 0px;
+  padding: 0px;
 }
-h1 {
-  color: yellow;
+body {
+  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+  background: grey url('../images/blokje.jpg') repeat;
 }
