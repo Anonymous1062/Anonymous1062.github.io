@@ -4,5 +4,8 @@
 }
 body {
   font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
-  background: grey url('../images/background.jpg') repeat;
+  background: grey;
+}
+p {
+  background: darkgrey;
 }
