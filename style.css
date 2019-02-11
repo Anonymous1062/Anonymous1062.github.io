@@ -1,25 +1,8 @@
-* {
-  margin: 0px;
-  padding: 0px;
-}
-body {
-  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
-  background: grey;
-}
-p {
-  background: darkgrey;
-}
 
-header {
-  background-image:url('../images/headermetlogo.png');
-  width: 960px;
-  height: 150px;
-}
-
-header h1 {
-  font-size: 300%;
-  font-family: Georgia, "Times New Roman", Times, serif;
-  color: black;
-  text-align: right;
-  text-shadow: 5px 5px 7px #000000;
-}
+/*
+.color-primary-1 { color: #DE0000 }
+.color-primary-2 { color: #BA0000 }
+.color-primary-3 { color: #6F0000 }
+.color-primary-0 { color: #970000 }
+.color-primary-4 { color: #3C0000 }
+*/
