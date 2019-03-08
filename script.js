@@ -1,1 +1,1 @@
-document.location.href = "nl/index.html"
+document.location.href = "index.html"
