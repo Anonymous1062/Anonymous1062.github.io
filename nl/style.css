@@ -60,7 +60,7 @@ td:hover, th:hover {
   background-color: #DE0000;
 }
 
-a, h2 {
+a, h2, p, h1 {
   background-color: inherit;
 }
 article {
@@ -85,4 +85,10 @@ ul li a:hover {
 
 a.links {
   text-decoration: none;
+}
+.anchor{
+  display: block;
+  height: 30px; /*same height as header*/
+  margin-top: -30px; /*same height as header*/
+  visibility: hidden;
 }
