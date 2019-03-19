@@ -7,7 +7,6 @@ header {
   text-align: center;
   padding-bottom: 20px;
   color: #DE0000;
-  left:5%;
 }
 /*
 .color-primary-1 { color: #DE0000 }
@@ -46,4 +45,44 @@ ul.links {
 
 p.badgelist {
   text-align: center;
+}
+table {
+  border-collapse: collapse;
+  text-align: center;
+}
+
+table, th, td {
+  border: 4px solid black;
+  background-color: #BA0000;
+}
+
+td:hover, th:hover {
+  background-color: #DE0000;
+}
+
+a, h2 {
+  background-color: inherit;
+}
+article {
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border: 4px solid black;
+  background-color: #BA0000;
+  text-align: center;
+}
+
+a {
+  color: black;
+}
+
+ul li a:hover {
+ background-color: #DE0000;
+ transition: 0.3s;
+ padding: 20px 10px;
+}
+
+a.links {
+  text-decoration: none;
 }
