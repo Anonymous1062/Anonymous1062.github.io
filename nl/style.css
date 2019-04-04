@@ -1,5 +1,5 @@
 * {
-  background-color: #6F0000;
+  background-color: #6F0000
 }
 
 header {
@@ -60,7 +60,7 @@ td:hover, th:hover {
   background-color: #DE0000;
 }
 
-a, h2, p, h1 {
+a, h2, p, h1, strong {
   background-color: inherit;
 }
 article {
@@ -88,7 +88,18 @@ a.links {
 }
 .anchor{
   display: block;
-  height: 30px; /*same height as header*/
-  margin-top: -30px; /*same height as header*/
+  height: 30px;
+  margin-top: -30px;
   visibility: hidden;
+}
+
+footer {
+  border: 3px solid black;
+  height: 5%;
+  width: 1360px;
+  margin-left: 100px;
+  margin-right: 100px;
+  text-align: center;
+  font-weight:bold;
+  background-color: #BA0000;
 }
