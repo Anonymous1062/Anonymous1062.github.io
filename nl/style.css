@@ -60,7 +60,7 @@ td:hover, th:hover {
   background-color: #DE0000;
 }
 
-a, h2, p, h1, strong {
+a, h1, h2, h3, p, strong {
   background-color: inherit;
 }
 article {
