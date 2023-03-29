@@ -36,6 +36,10 @@ body {
   color: #666;
 }
 
+.inline {
+  color: #666;
+}
+
 .article-image {
   width: 100%;
   max-width: 400px;
@@ -175,9 +179,9 @@ section .box {
 section li:hover .box {
   transform: scaleY(1);
 }
-
+  
 section .box p {
   font-size: 1.2rem;
   line-height: 1.5;
-  margin-bottom: 20px;
+  margin: 20px;
 }
